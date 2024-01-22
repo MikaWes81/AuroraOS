@@ -17,6 +17,9 @@ Vorinstallierte Webbrowser sind:
 * Chromium
 
 Als Office suite gibt es OnlyOffice 
+Instaliert für die Vernverwaltung sind:
+*Openssh
+*Xrdp
 
 Und pakete können über diese weisen installieren werden:
 * .deb dateien
