@@ -1,4 +1,4 @@
-# AuroraOS
+# NebulaOS
 
 ![](Icon.png)
 
