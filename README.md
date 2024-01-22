@@ -11,5 +11,5 @@ Dazu gehören:
 Als Webbrowser sind:
 * Firefox
 * Chromium
-vorinsterlliert
+
 
