@@ -7,7 +7,9 @@ Dazu gehören:
 * g++
 * gcc
 * git
-* Node.js (npm)
+* Node.js (mit npm)
+
+
 Vorinstallierte Webbrowser sind:
 * Firefox
 * Chromium
