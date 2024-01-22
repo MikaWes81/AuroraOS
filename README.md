@@ -29,6 +29,6 @@ Instaliert für die Vernverwaltung sind:
 
 Und pakete können über diese weisen installieren werden:
 * .deb dateien
-* debian paketquellen
-* flathub
-* snapcraft
+* Debian paketquellen
+* Flathub
+* Snapcraft
