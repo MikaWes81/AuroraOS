@@ -1,6 +1,6 @@
 # AuroraOS
 
-AuroraOS ist eine einfache Linux Distribution für Programmierer basierend auf einem Debian mit KDE Plasma gute Programmen für das Programieren sind vorinstalliert
+AuroraOS ist eine einfache Linux Distribution für Programmierer basierend auf einem Debian mit einem angepasten KDE Plasma gute Programmen für das Programieren sind vorinstalliert
 
 Dazu gehören:
 * VS Codium
@@ -10,8 +10,8 @@ Dazu gehören:
 * Node.js
 * npm
 
-Als Webbrowser sind:
+Vorinstallierte Webbrowser sind:
 * Firefox
 * Chromium
 
-
+Als Office suite gibt es OnlyOffice 
