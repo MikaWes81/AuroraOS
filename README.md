@@ -7,11 +7,15 @@ Dazu gehören:
 * g++
 * gcc
 * git
-* Node.js
-* npm
-
+* Node.js (npm)
 Vorinstallierte Webbrowser sind:
 * Firefox
 * Chromium
 
 Als Office suite gibt es OnlyOffice 
+
+und pakete können über diese weisen installieren werden:
+* .deb dateien
+* debian paketquellen
+* flathub
+* snapcraft
