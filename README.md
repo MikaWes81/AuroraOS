@@ -16,7 +16,7 @@ Vorinstallierte Webbrowser sind:
 
 Als Office suite gibt es OnlyOffice 
 
-und pakete können über diese weisen installieren werden:
+Und pakete können über diese weisen installieren werden:
 * .deb dateien
 * debian paketquellen
 * flathub
