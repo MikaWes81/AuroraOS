@@ -7,6 +7,8 @@ Dazu gehören:
 * g++
 * gcc
 * git
+* Node.js
+* npm
 
 Als Webbrowser sind:
 * Firefox
